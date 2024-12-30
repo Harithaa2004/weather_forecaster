@@ -1,7 +1,5 @@
 # weather_forecaster
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Harithaa2004/weather_forecaster)
-
 This is a simple weather forecaster project that allows users to get the current weather information for a specific city. This project fetches data from the OpenWeather API and displays the temperature, humidity, wind speed, and weather conditions.
 
 Features
